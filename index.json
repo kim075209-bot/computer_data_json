@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with USB receiver",
+    "price": 15.99,
+    "image": "https://m.media-amazon.com/images/I/61Mk3YqYHpL.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard",
+    "price": 49.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVIfVSQ4d4vZb3EzfRzr8kKnhWaG77Lip69g&s"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Headset",
+    "description": "Surround sound gaming headset with mic",
+    "price": 29.99,
+    "image": "https://m.media-amazon.com/images/I/61LhfQRdEgL.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Laptop Stand",
+    "description": "Adjustable aluminum laptop stand",
+    "price": 19.99,
+    "image": "https://gearstudiokh.com/web/image/product.product/634/image_1024/N3%20Portable%20laptop%20stand%20Aluminum%20%28Black%29?unique=e67d4f8"
+  },
+  {
+    "id": 5,
+    "name": "USB-C Hub",
+    "description": "Multi-port USB-C hub with HDMI",
+    "price": 24.99,
+    "image": "https://cdn.sandberg.world/products/images/rt/136-41_rt.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Smartphone Holder",
+    "description": "Flexible desk smartphone holder",
+    "price": 9.99,
+    "image": "https://desire2.co.uk/cdn/shop/files/ImageSet1_9e0b9b01-6e4e-4c37-a0c5-74b6472b5e0d.jpg?v=1696274946&width=2048"
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "description": "Portable waterproof Bluetooth speaker",
+    "price": 39.99,
+    "image": "https://kh.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6be871e3/JBL_PARTYBOX_ENCORE_ESSENTIAL_HERO_1605x1605px.jpg?sw=270&sh=330&sm=fit&sfrm=png"
+  },
+  {
+    "id": 8,
+    "name": "External Hard Drive",
+    "description": "1TB portable external hard drive",
+    "price": 59.99,
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2023/05/externalhardrives-2048px-09422.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Webcam",
+    "description": "HD 1080p webcam with microphone",
+    "price": 34.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIjV-Qqg7CfNFj0jHoPo4raKxAJsaUQ5r40A&s"
+  },
+  {
+    "id": 10,
+    "name": "LED Desk Lamp",
+    "description": "Dimmable LED desk lamp with USB charging port",
+    "price": 22.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh4moC4ePzq6u49Qe27TL4zco7aUGFENUZA&s"
+  }
+]
